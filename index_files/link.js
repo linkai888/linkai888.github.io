@@ -4,7 +4,7 @@
 
     yaboPc: 'http://ky7572.com',                //亚博电脑
 
-    yaboH5: 'https://www.kaiyun113.com/user/register?i_code=18335450',          //亚博h5
+    yaboH5: 'http://ky7572.com',          //亚博h5
 
     yaboApp: 'http://ky7572.com',     
 
@@ -15,7 +15,7 @@
 
     leyuPc: 'http://ky7572.com',              //乐鱼电脑
 
-    leyuH5: 'https://www.kaiyun113.com/user/register?i_code=18335450',        //乐鱼h5
+    leyuH5: 'http://ky7572.com',        //乐鱼h5
 
     leyuApp: 'http://ky7572.com',                     //乐鱼app
 
