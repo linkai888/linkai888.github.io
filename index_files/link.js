@@ -2,22 +2,22 @@
 
     //亚博
 
-    yaboPc: 'https://www.9k42h.com:8553/entry/register/?i_code=18335450',                //亚博电脑
+    yaboPc: 'http://ky7572.com',                //亚博电脑
 
     yaboH5: 'https://www.9k42h.com:8553/entry/register/?i_code=18335450',          //亚博h5
 
-    yaboApp: 'https://www.9k42h.com:8553/entry/register/?i_code=18335450',     
+    yaboApp: 'http://ky7572.com',     
 
                    //亚博aap
 
 
     //乐鱼
 
-    leyuPc: 'https://www.9k42h.com:8553/entry/register/?i_code=18335450',              //乐鱼电脑
+    leyuPc: 'http://ky7572.com',              //乐鱼电脑
 
     leyuH5: 'https://www.9k42h.com:8553/entry/register/?i_code=18335450',        //乐鱼h5
 
-    leyuApp: 'https://www.9k42h.com:8553/entry/register/?i_code=18335450',                     //乐鱼app
+    leyuApp: 'http://ky7572.com',                     //乐鱼app
 
 
 }
