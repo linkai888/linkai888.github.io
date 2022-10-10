@@ -6,9 +6,9 @@
 
     yaboH5: 'https://www.170ky.com:9133/entry/register/?i_code=18335450',          //亚博h5
 
-    yaboApp: 'https://www.170ky.com:9133/entry/register/?i_code=18335450',     
+    yaboApp: 'https://www.ky133.app:9976/?i_code=18335450',                 //亚博aap
 
-                   //亚博aap
+                   
 
 
     //乐鱼
@@ -17,7 +17,7 @@
 
     leyuH5: 'https://www.170ky.com:9133/entry/register/?i_code=18335450',        //乐鱼h5
 
-    leyuApp: 'https://www.170ky.com:9133/entry/register/?i_code=18335450',                     //乐鱼app
+    leyuApp: 'https://www.ky133.app:9976/?i_code=18335450',                     //乐鱼app
 
 
 }
