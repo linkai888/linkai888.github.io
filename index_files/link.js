@@ -2,9 +2,9 @@
 
     //亚博
 
-    yaboPc: 'https://www.k21oj.com:9516/entry/register?i_code=83185944',                //亚博电脑
+    yaboPc: 'https://kaiyun120.com:9517/entry/register/?i_code=18335450',                //亚博电脑
 
-    yaboH5: 'https://www.k21oj.com:9516/entry/register?i_code=83185944',          //亚博h5
+    yaboH5: 'https://kaiyun120.com:9517/entry/register/?i_code=18335450',          //亚博h5
 
     yaboApp: 'https://www.ky135.app:9502/?i_code=83185944',                 //亚博aap
 
@@ -13,9 +13,9 @@
 
     //乐鱼
 
-    leyuPc: 'https://www.k21oj.com:9516/entry/register?i_code=83185944',              //乐鱼电脑
+    leyuPc: 'https://kaiyun120.com:9517/entry/register/?i_code=18335450',              //乐鱼电脑
 
-    leyuH5: 'https://www.k21oj.com:9516/entry/register?i_code=83185944',        //乐鱼h5
+    leyuH5: 'https://kaiyun120.com:9517/entry/register/?i_code=18335450',        //乐鱼h5
 
     leyuApp: 'https://www.ky135.app:9502/?i_code=83185944',                     //乐鱼app
 
