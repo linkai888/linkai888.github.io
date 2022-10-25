@@ -4,9 +4,9 @@
 
     yaboPc: 'https://www.dlnq7.com:9975/entry/register?i_code=83185944',                //亚博电脑
 
-    yaboH5: 'https://www.dlnq7.com:9975/entry/register?i_code=83185944',          //亚博h5
+    yaboH5: 'https://www.f6bik.com:9515/entry/register/?i_code=23130291',          //亚博h5
 
-    yaboApp: 'https://www.ky145.app:7443/?i_code=83185944',                 //亚博aap
+    yaboApp: 'https://www.k25.app:9077/?i_code=23130291',                 //亚博aap
 
                    
 
@@ -15,9 +15,9 @@
 
     leyuPc: 'https://www.dlnq7.com:9975/entry/register?i_code=83185944',              //乐鱼电脑
 
-    leyuH5: 'https://www.dlnq7.com:9975/entry/register?i_code=83185944',        //乐鱼h5
+    leyuH5: 'https://www.f6bik.com:9515/entry/register/?i_code=23130291',        //乐鱼h5
 
-    leyuApp: 'https://www.ky145.app:7443/?i_code=83185944',                     //乐鱼app
+    leyuApp: 'https://www.k25.app:9077/?i_code=23130291',                     //乐鱼app
 
 
 }
