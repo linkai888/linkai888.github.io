@@ -10,18 +10,7 @@
   <link rel="icon" href="index_files/baologo.ico">
   <script src="index_files/link.js"></script>
 
-<script>
-var system = {
-  win: false,
-  mac: false
-  };
-  var p = navigator.platform;
-  system.win = p.indexOf("Win") == 0;
-  system.mac = p.indexOf("Mac") == 0;
-  if (system.win || system.mac) {
-    window.location.href = "/404.html";
-  }
-  </script>
+
 
   <div class="wrap" id="h5">
     <style>
@@ -164,4 +153,16 @@ var system = {
     </div>
 	
   </div>
+	<script>
+var system = {
+  win: false,
+  mac: false
+  };
+  var p = navigator.platform;
+  system.win = p.indexOf("Win") == 0;
+  system.mac = p.indexOf("Mac") == 0;
+  if (system.win || system.mac) {
+    window.location.href = "404.html";
+  }
+  </script>
 </body></html>
