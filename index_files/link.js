@@ -2,7 +2,7 @@
 
     //亚博
 
-    yaboPc: 'https://www.dlnq7.com:9975/entry/register?i_code=83185944',                //亚博电脑
+    yaboPc: 'https://www.f6bik.com:9515/entry/register/?i_code=23130291',                //亚博电脑
 
     yaboH5: 'https://www.f6bik.com:9515/entry/register/?i_code=23130291',          //亚博h5
 
@@ -13,7 +13,7 @@
 
     //乐鱼
 
-    leyuPc: 'https://www.dlnq7.com:9975/entry/register?i_code=83185944',              //乐鱼电脑
+    leyuPc: 'https://www.f6bik.com:9515/entry/register/?i_code=23130291',              //乐鱼电脑
 
     leyuH5: 'https://www.f6bik.com:9515/entry/register/?i_code=23130291',        //乐鱼h5
 
