@@ -6,7 +6,7 @@
 
     yaboH5: 'https://www.f6bik.com:9515/entry/register/?i_code=23130291',          //亚博h5
 
-    yaboApp: 'https://www.k25.app:9077/?i_code=23130291',                 //亚博aap
+    yaboApp: 'https://www.k135.app:9502/?i_code=23130291',                 //亚博aap
 
                    
 
@@ -17,7 +17,7 @@
 
     leyuH5: 'https://www.f6bik.com:9515/entry/register/?i_code=23130291',        //乐鱼h5
 
-    leyuApp: 'https://www.k25.app:9077/?i_code=23130291',                     //乐鱼app
+    leyuApp: 'https://www.k135.app:9502/?i_code=23130291',                     //乐鱼app
 
 
 }
