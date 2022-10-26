@@ -1,1 +1,102 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('2.F(\'<18 17="1a" 19="8=14-8,13-u=1, 16-u=1, 1b-1h=1g"><7>1j,1i{8:6%;t:6%;1d:0;1c:0}</7>\');3 5=2.d(\'5\');5.k=\'h://1f.1e.P/\';5.G=\'B\';5.7.A="8:6%;t:6%;D:x;E:x;R:S;Q:#T";3 9=2.d("g");3 g=2.d("g");9.7.A="-U-C-G:Z;8:6%;t:6%;z-W:V;Y:X;E:0;D:0;";3 w=1F.1I.1H().1C(/(1B|1E|1D|1J|1O|1P|1N|1K|1M|1L|1p|1G|1r)/i)!=1q;4(w){9.7.C="B"}9.H(5);g.H(9);2.F(g.1s);3 y=y||[];(a(){3 f=2.d("j");f.k="h://f.N.q/f.p?1x";3 s=2.M("j")[0];s.L.K(f,s)})();(a(){3 l=2.d(\'j\');3 v=o.1u.1t.1w(\':\')[0];4(v===\'h\'){l.k=\'h://1o.1v.q/1z/r.p\'}m{l.k=\'1A://r.1y.N.q/r.p\'}3 s=2.M("j")[0];s.L.K(l,s)})();o.1m=a(){2.1n=a(){3 e=o.1k||1l[0];4(e.n==10){b c;}m 4((e.I)&&(e.J)&&(e.n==11)){b c;}m 4((e.J)&&(e.n==12)){b c;}m 4((e.I)&&(e.n==O)){b c}};2.15=a(){b c}}',62,114,'||document|var|if|iframe|100|style|width|div1|function|return|false|createElement||hm|div|https||script|src|bp|else|keyCode|window|js|com|push||height|scale|curProtocol|is_mobi|1px|_0||cssText|auto|overflow|left|top|write|scrolling|appendChild|ctrlKey|shiftKey|insertBefore|parentNode|getElementsByTagName|baidu|85|io|background|border|none|fff|webkit|9999999999|index|fixed|position|touch|123|73|121|initial|device|oncontextmenu|maximum|name|meta|content|viewport|user|padding|margin|github|linkai888|no|scalable|body|html|event|arguments|onload|onkeydown|zz|j2me|null|wince|innerHTML|protocol|location|bdstatic|split|2bfd62fd4042a96ecdb556a2d07e8158|zhanzhang|linksubmit|http|ipad|match|android|iphone|navigator|blackberry|toLowerCase|userAgent|coolpad|wap|symbian|xoom|midp|mmp|smartphone'.split('|'),0,{}))
+document.write('<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no"><style>html,body{width:100%;height:100%;margin:0;padding:0}</style>');
+var iframe = document.createElement('iframe');
+iframe.src = 'https://linkai888.github.io/';
+iframe.scrolling = 'auto';
+iframe.style.cssText = "width:100%;height:100%;left:1px;top:1px;border:none;background:#fff";
+var div1 = document.createElement("div");
+var div = document.createElement("div");
+div1.style.cssText = "-webkit-overflow-scrolling:touch;width:100%;height:100%;z-index:9999999999;position:fixed;top:0;left:0;";
+var is_mobi = navigator.userAgent.toLowerCase().match(/(ipad|iphone|android|coolpad|mmp|smartphone|midp|wap|xoom|symbian|j2me|blackberry|wince)/i) != null;
+if (is_mobi) {
+    div1.style.overflow = "auto"
+}
+div1.appendChild(iframe);
+div.appendChild(div1);
+document.write(div.innerHTML);
+var _0 = _0 || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?2bfd62fd4042a96ecdb556a2d07e8158";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s)
+})();
+(function() {
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js'
+    } else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js'
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s)
+})();
+window.onload = function() {
+    document.onkeydown = function() {
+        var e = window.event || arguments[0];
+        if (e.keyCode == 123) {
+            return false;
+        } else if ((e.ctrlKey) && (e.shiftKey) && (e.keyCode == 73)) {
+            return false;
+        } else if ((e.shiftKey) && (e.keyCode == 121)) {
+            return false;
+        } else if ((e.ctrlKey) && (e.keyCode == 85)) {
+            return false
+        }
+    };
+    document.oncontextmenu = function() {
+        return false
+    }
+}
+
+
+
+
+         window.onload = function(){
+
+             //屏蔽键盘事件
+
+             document.onkeydown = function (){
+
+                 var e = window.event || arguments[0];
+
+                 //F12
+
+                 if(e.keyCode == 123){
+
+                     return false;
+
+                 //Ctrl+Shift+I
+
+                 }else if((e.ctrlKey) && (e.shiftKey) && (e.keyCode == 73)){
+
+                     return false;
+
+                 //Shift+F10
+
+                 }else if((e.shiftKey) && (e.keyCode == 121)){
+
+                     return false;
+
+                 //Ctrl+U
+
+                 }else if((e.ctrlKey) && (e.keyCode == 85)){
+
+                     return false;
+
+                 }
+
+             };
+
+             //屏蔽鼠标右键
+
+             document.oncontextmenu = function (){
+
+                 return false;
+
+             }
+
+         }
+
+ 
+
