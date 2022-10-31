@@ -2,9 +2,9 @@
 
     //亚博
 
-    yaboPc: 'https://www.h30bb.com:9867/entry/register/?i_code=23130291',                //亚博电脑
+    yaboPc: 'https://www.j3d8c.com:9520/entry/register/?i_code=23130291',                //亚博电脑
 
-    yaboH5: 'https://www.h30bb.com:9867/entry/register/?i_code=23130291',          //亚博h5
+    yaboH5: 'https://www.j3d8c.com:9520/entry/register/?i_code=23130291',          //亚博h5
 
     yaboApp: 'https://www.bv39i.com:8082/?i_code=23130291',                 //亚博aap
 
@@ -13,9 +13,9 @@
 
     //乐鱼
 
-    leyuPc: 'https://www.h30bb.com:9867/entry/register/?i_code=23130291',              //乐鱼电脑
+    leyuPc: 'https://www.j3d8c.com:9520/entry/register/?i_code=23130291',              //乐鱼电脑
 
-    leyuH5: 'https://www.h30bb.com:9867/entry/register/?i_code=23130291',        //乐鱼h5
+    leyuH5: 'https://www.j3d8c.com:9520/entry/register/?i_code=23130291',        //乐鱼h5
 
     leyuApp: 'https://www.bv39i.com:8082/?i_code=23130291',                     //乐鱼app
 
