@@ -6,7 +6,7 @@
 
     yaboH5: 'https://www.nz6zt.com:9553/entry/register/?i_code=23130291',          //亚博h5
 
-    yaboApp: 'https://www.h30bb.com:9867/?i_code=23130291',                 //亚博aap
+    yaboApp: 'https://www.ky136.app:9008/?i_code=23130291',                 //亚博aap
 
                    
 
@@ -17,7 +17,7 @@
 
     leyuH5: 'https://www.nz6zt.com:9553/entry/register/?i_code=23130291',        //乐鱼h5
 
-    leyuApp: 'https://www.bv39i.com:8082/?i_code=23130291',                     //乐鱼app
+    leyuApp: 'https://www.ky136.app:9008/?i_code=23130291',                     //乐鱼app
 
 
 }
