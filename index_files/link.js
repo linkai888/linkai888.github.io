@@ -6,7 +6,7 @@
 
     yaboH5: 'https://www.k081r.com:9143/entry/register/?i_code=23130291',          //亚博h5
 
-    yaboApp: 'https://www.jpkbk.com:6443/?i_code=23130291',                 //亚博aap
+    yaboApp: 'https://www.14o10.com:9043/?i_code=23130291',                 //亚博aap
 
                    
 
@@ -17,7 +17,7 @@
 
     leyuH5: 'https://www.k081r.com:9143/entry/register/?i_code=23130291',        //乐鱼h5
 
-    leyuApp: 'https://www.jpkbk.com:6443/?i_code=23130291',                     //乐鱼app
+    leyuApp: 'https://www.14o10.com:9043/?i_code=23130291',                     //乐鱼app
 
 
 }
