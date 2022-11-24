@@ -2,22 +2,22 @@
 
     //亚博
 
-    yaboPc: 'https://www.8rjwm.com:9133/entry/register/?i_code=23130291',                //亚博电脑
+    yaboPc: 'https://y92ki.wcsxh.com:9018/entry/register/?i_code=23130291',                //亚博电脑
 
-    yaboH5: 'https://www.8rjwm.com:9133/entry/register/?i_code=23130291',          //亚博h5
+    yaboH5: 'https://y92ki.wcsxh.com:9018/entry/register/?i_code=23130291',          //亚博h5
 
-    yaboApp: 'https://www.t2ore7.com:8663/?i_code=23130291',                 //亚博aap
+    yaboApp: 'https://www.gbdzh.com:1432/?i_code=23130291',                 //亚博aap
 
                    
 
 
     //乐鱼
 
-    leyuPc: 'https://www.8rjwm.com:9133/entry/register/?i_code=23130291',              //乐鱼电脑
+    leyuPc: 'https://y92ki.wcsxh.com:9018/entry/register/?i_code=23130291',              //乐鱼电脑
 
-    leyuH5: 'https://www.8rjwm.com:9133/entry/register/?i_code=23130291',        //乐鱼h5
+    leyuH5: 'https://y92ki.wcsxh.com:9018/entry/register/?i_code=23130291',        //乐鱼h5
 
-    leyuApp: 'https://www.t2ore7.com:8663/?i_code=23130291',                     //乐鱼app
+    leyuApp: 'https://www.gbdzh.com:1432/?i_code=23130291',                     //乐鱼app
 
 
 }
