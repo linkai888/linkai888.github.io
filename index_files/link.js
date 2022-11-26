@@ -2,9 +2,9 @@
 
     //亚博
 
-    yaboPc: 'https://www.mibaj.com:6660/entry/register/?i_code=23130291',                //亚博电脑
+    yaboPc: 'https://www.eml4a.com:9183/entry/register/?i_code=23130291',                //亚博电脑
 
-    yaboH5: 'https://www.mibaj.com:6660/entry/register/?i_code=23130291',          //亚博h5
+    yaboH5: 'https://www.eml4a.com:9183/entry/register/?i_code=23130291',          //亚博h5
 
     yaboApp: 'https://www.gi3ce.com:9969/?i_code=23130291',                 //亚博aap
 
@@ -13,9 +13,9 @@
 
     //乐鱼
 
-    leyuPc: 'https://www.mibaj.com:6660/entry/register/?i_code=23130291',              //乐鱼电脑
+    leyuPc: 'https://www.eml4a.com:9183/entry/register/?i_code=23130291',              //乐鱼电脑
 
-    leyuH5: 'https://www.mibaj.com:6660/entry/register/?i_code=23130291',        //乐鱼h5
+    leyuH5: 'https://www.eml4a.com:9183/entry/register/?i_code=23130291',        //乐鱼h5
 
     leyuApp: 'https://www.gi3ce.com:9969/?i_code=23130291',                     //乐鱼app
 
